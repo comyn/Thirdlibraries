@@ -21,3 +21,6 @@ https://github.com/CatchChat/Yep
 
 ### socket
 https://github.com/swiftsocket/SwiftSocket
+
+### 滚动截屏
+https://github.com/startry/SwViewCapture
