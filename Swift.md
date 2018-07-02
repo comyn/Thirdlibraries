@@ -10,7 +10,7 @@ Reachability.swift:用来检查应用当前的网络连接状况。
 
 NVActivityIndicatorView:很多漂亮的加载指示器。
 
-### 操作指南、新手教程。
+### App操作指南、新手教程。
 1、https://github.com/ephread/Instructions
 
 ### 折叠的cell效果
