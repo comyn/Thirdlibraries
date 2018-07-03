@@ -4,10 +4,10 @@ Alamofire:http网络请求事件处理的框架。
 
 Moya:这是一个基于Alamofire的更高层网络请求封装抽象层。
 
-Reachability.swift:用来检查应用当前的网络连接状况。
+### Reachability.swift:用来检查应用当前的网络连接状况。
+https://github.com/ashleymills/Reachability.swift
 
 ### HUD
-
 NVActivityIndicatorView:很多漂亮的加载指示器。
 
 ### App操作指南、新手教程。
